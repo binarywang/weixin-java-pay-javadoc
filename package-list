@@ -1,0 +1,7 @@
+com.github.binarywang.wxpay.bean
+com.github.binarywang.wxpay.bean.request
+com.github.binarywang.wxpay.bean.result
+com.github.binarywang.wxpay.config
+com.github.binarywang.wxpay.converter
+com.github.binarywang.wxpay.service
+com.github.binarywang.wxpay.service.impl
