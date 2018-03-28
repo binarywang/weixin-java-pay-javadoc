@@ -1,5 +1,6 @@
 com.github.binarywang.wxpay.bean
 com.github.binarywang.wxpay.bean.coupon
+com.github.binarywang.wxpay.bean.entpay
 com.github.binarywang.wxpay.bean.notify
 com.github.binarywang.wxpay.bean.order
 com.github.binarywang.wxpay.bean.request
