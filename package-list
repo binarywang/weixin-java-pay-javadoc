@@ -3,6 +3,7 @@ com.github.binarywang.wxpay.bean.coupon
 com.github.binarywang.wxpay.bean.entpay
 com.github.binarywang.wxpay.bean.notify
 com.github.binarywang.wxpay.bean.order
+com.github.binarywang.wxpay.bean.payscore
 com.github.binarywang.wxpay.bean.profitsharing
 com.github.binarywang.wxpay.bean.request
 com.github.binarywang.wxpay.bean.result
@@ -13,3 +14,6 @@ com.github.binarywang.wxpay.exception
 com.github.binarywang.wxpay.service
 com.github.binarywang.wxpay.service.impl
 com.github.binarywang.wxpay.util
+com.github.binarywang.wxpay.v3
+com.github.binarywang.wxpay.v3.auth
+com.github.binarywang.wxpay.v3.util
