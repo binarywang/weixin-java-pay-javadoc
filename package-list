@@ -1,6 +1,10 @@
 com.github.binarywang.wxpay.bean
+com.github.binarywang.wxpay.bean.applyment
+com.github.binarywang.wxpay.bean.applyment.enums
 com.github.binarywang.wxpay.bean.coupon
+com.github.binarywang.wxpay.bean.ecommerce
 com.github.binarywang.wxpay.bean.entpay
+com.github.binarywang.wxpay.bean.media
 com.github.binarywang.wxpay.bean.notify
 com.github.binarywang.wxpay.bean.order
 com.github.binarywang.wxpay.bean.payscore
