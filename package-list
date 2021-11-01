@@ -15,6 +15,7 @@ com.github.binarywang.wxpay.bean.notify
 com.github.binarywang.wxpay.bean.order
 com.github.binarywang.wxpay.bean.payscore
 com.github.binarywang.wxpay.bean.profitsharing
+com.github.binarywang.wxpay.bean.profitsharingV3
 com.github.binarywang.wxpay.bean.request
 com.github.binarywang.wxpay.bean.result
 com.github.binarywang.wxpay.bean.result.enums
