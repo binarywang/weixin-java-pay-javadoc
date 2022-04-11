@@ -2,6 +2,7 @@ com.github.binarywang.wxpay.bean
 com.github.binarywang.wxpay.bean.applyment
 com.github.binarywang.wxpay.bean.applyment.enums
 com.github.binarywang.wxpay.bean.businesscircle
+com.github.binarywang.wxpay.bean.complaint
 com.github.binarywang.wxpay.bean.coupon
 com.github.binarywang.wxpay.bean.ecommerce
 com.github.binarywang.wxpay.bean.ecommerce.enums
@@ -10,6 +11,8 @@ com.github.binarywang.wxpay.bean.entwxpay
 com.github.binarywang.wxpay.bean.marketing
 com.github.binarywang.wxpay.bean.marketing.busifavor
 com.github.binarywang.wxpay.bean.marketing.enums
+com.github.binarywang.wxpay.bean.marketing.payroll
+com.github.binarywang.wxpay.bean.marketing.transfer
 com.github.binarywang.wxpay.bean.media
 com.github.binarywang.wxpay.bean.notify
 com.github.binarywang.wxpay.bean.order
