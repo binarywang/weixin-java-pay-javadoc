@@ -1,4 +1,6 @@
 com.github.binarywang.wxpay.bean
+com.github.binarywang.wxpay.bean.applyconfirm
+com.github.binarywang.wxpay.bean.applyconfirm.enums
 com.github.binarywang.wxpay.bean.applyment
 com.github.binarywang.wxpay.bean.applyment.enums
 com.github.binarywang.wxpay.bean.bank
@@ -22,8 +24,11 @@ com.github.binarywang.wxpay.bean.merchanttransfer
 com.github.binarywang.wxpay.bean.notify
 com.github.binarywang.wxpay.bean.order
 com.github.binarywang.wxpay.bean.payscore
+com.github.binarywang.wxpay.bean.payscore.enums
 com.github.binarywang.wxpay.bean.profitsharing
-com.github.binarywang.wxpay.bean.profitsharingV3
+com.github.binarywang.wxpay.bean.profitsharing.notify
+com.github.binarywang.wxpay.bean.profitsharing.request
+com.github.binarywang.wxpay.bean.profitsharing.result
 com.github.binarywang.wxpay.bean.request
 com.github.binarywang.wxpay.bean.result
 com.github.binarywang.wxpay.bean.result.enums
